@@ -1,0 +1,16 @@
+1.初始化git仓库
+新建一个文件夹，cd进入使用git init命令初始化。
+2.提交文件到git仓库
+git add 文件名
+git commit -m “提交说明”
+3.打印提交记录
+git log
+4.回退版本
+git reset --hard 版本号 
+5.查看历史命令
+git reflog
+
+
+
+
+
